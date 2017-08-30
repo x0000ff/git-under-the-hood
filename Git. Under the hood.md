@@ -287,7 +287,7 @@ Because Git doesn't know about our file
     - `reset`
     - `rebase`
 - Pro Git: http://bit.ly/1MRoX7u
-- 
+- This presentation: https://github.com/x0000ff/git-under-the-hood
 
 ---
 
@@ -324,7 +324,11 @@ Because Git doesn't know about our file
 
 ---
 
-# EOF
-# 🍻
+# This Presentation
+# 🙂
+# http://bit.ly/2vHPoJS
 
 ---
+
+# EOF
+# 🍻
