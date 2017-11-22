@@ -1,6 +1,8 @@
 # Git Under The Hood
 
-Presentation of "Git Under The Hood" for [Meetup iOS Love @ 29/08/2017](https://www.meetup.com/iOSLove/events/242437520/)
+Presentation of "Git Under The Hood" for:
+- [Meetup iOS Love @ 29/08/2017](https://www.meetup.com/iOSLove/events/242437520/)
+- [Software Crafters Chile @ 22/11/2017](https://www.meetup.com/Software-Crafters-Chile/events/244929836/)
 
 ![](./cover.png)
 
